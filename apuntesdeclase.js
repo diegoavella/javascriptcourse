@@ -257,11 +257,5 @@ luego ir por la ruta  a la carpeta del proyecto creado y ejecutar
     
     ng serve
 
-
-
-
-
-
-
 */
 
